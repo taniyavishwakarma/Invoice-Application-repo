@@ -1,0 +1,5 @@
+.containerF {
+  width: 100%;
+  display: flex;
+  justify-content: flex-center;
+}

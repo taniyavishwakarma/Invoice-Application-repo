@@ -1,0 +1,6 @@
+.sidebar a {
+  display: block;
+  color: white !important;
+  padding: 16px;
+  text-decoration: none;
+}
